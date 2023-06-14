@@ -11,3 +11,5 @@
 10- Localimizde ilişkilendirdiğimiz adresi git remote -v komutuyla gönderebiliriz.
 11-Github tarafında yaptığımız bir değişlik olursa adresi bir kerelik tanımladığımız için sadece git pull yapmamız yeterlidir.
 Aynı şekilde adresi tanımladığımız için sadece git push komutu ile de kodlarımızı gönderebiliriz
+
+--Restore/Branch ve Stash komutları
